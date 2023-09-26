@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Coding.
 - 🌱 I’m currently a student at Universiteit Gent at Mastat Programme.
 - 👍 I’m aiming to be a Data Analyst .
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/abdullah-g%C3%B6k-13984332/
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/abdullah-gok/
 Mail: abdullahgk@outlook.com
 
 <!---
